@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Yasmin! 👋 🇧🇷 🇺🇸
 
-<!--
-**YasminMSousa/YasminMSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Java Backend Developer
+I'm a final-year **Systems Development** student (graduating in 2026) based in Santa Catarina, Brazil. I'm passionate about building robust backend solutions and I'm currently looking for international opportunities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 **Education:** Final year of Systems Development (2026).
+- 💻 **Main Focus:** Backend Development with **Java**.
+- 📡 **Currently Learning:** Internet of Things (IoT), Systems Testing, and Deployment.
+- ✍️ **Organization:** I use **Notion** to document my entire learning journey and code architecture.
+
+---
+
+### 🛡️ Featured Project: PPE Management System
+A full-stack application developed in **Java** to automate Personal Protective Equipment (EPI) management.
+- **Objective:** Efficient employee registration, inventory tracking, and safety compliance.
+- **Tech Used:** Java, MySQL, and detailed planning in Notion.
+---
+
+### 🛠️ Tech Stack & Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+
+---
+
+### ✨ Personal Side
+Beyond coding, I'm a gamer and a proud pet owner:
+- 🐾 Mom of two amazing dogs: **Cute** and **Pequena**.
+- 🎮 Enjoying **Valorant**, **Genshin Impact**, and **Minecraft**.
+- ♉ Taurus | Focused on growth and organization.
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/t0teseel3/)
