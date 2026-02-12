@@ -27,10 +27,11 @@ A full-stack application developed in **Java** to automate Personal Protective E
 ---
 
 ### ✨ Personal Side
-Beyond coding, I'm a gamer and a proud pet owner:
+Beyond coding
 - 🐾 Mom of two amazing dogs: **Cute** and **Pequena**.
 - 🎮 Enjoying **Valorant**, **Genshin Impact**, and **Minecraft**.
-- ♉ Taurus | Focused on growth and organization.
+- 🔍 Analytical Mindset: I enjoy investigation videos and true crime—I love the process of connecting dots and solving puzzles.
+- 🎵 Music & Order: I’m passionate about music and love organizing my personal playlists and workspaces to keep a good flow.
 
 ---
 
